@@ -2,7 +2,6 @@
 
 # SpaceX Falcon 9 Landing Prediction
 
-![SpaceX Falcon 9](https://www.fromspacewithlove.com/wp-content/uploads/2019/05/Falcon-9-SpaceX.jpg)
 
 ## Overview
 
